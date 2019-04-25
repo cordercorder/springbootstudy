@@ -39,3 +39,5 @@
 
 **接下来我们访问`http://localhost:8080/student_score_query`就能看到选了课程号为`CS001`课程的学生成绩了(注意，对应的实体中有了`getter`方法的数据才能展示出来)**
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base7.JPG)
+
+## 代码已经上传到了我们班的`github`，可以随时查看
