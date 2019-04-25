@@ -21,7 +21,7 @@
 ### 创建的实体如下
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base2.JPG)
 
-**本来编译器应该会为根据我们查询的'sql'语句为我们自动生成一个构造函数，但是由于我们这里需要将查询出来的结果做一个转换(把查询出来的包含平时成绩，期中成绩，期末成绩的混合成绩换为真实的成绩)，所以在这里我们自己写一个构造函数，我们写的构造函数如下：**
+**本来编译器应该会为根据我们查询的`sql`语句为我们自动生成一个构造函数，但是由于我们这里需要将查询出来的结果做一个转换(把查询出来的包含平时成绩，期中成绩，期末成绩的混合成绩换为真实的成绩)，所以在这里我们自己写一个构造函数，我们写的构造函数如下：**
 
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base3.JPG)
 
