@@ -34,8 +34,8 @@
 **接下来我们到`impl`下去实现这个接口**
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base6.JPG)
 
-**接下来我们到`controller`下写业务逻辑(注意，对应的实体中有了`getter`方法的数据才能展示出来)**
+**接下来我们到`controller`下写业务逻辑(在这里为了方便，`coursenumber`参数设置为固定值`CS001`)**
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base8.JPG)
 
-**接下来我们访问`http://localhost:8080/student_score_query`(注意，对应的实体中有了`getter`方法的数据才能展示出来)**
+**接下来我们访问`http://localhost:8080/student_score_query`就能看到选了课程号为`CS001`课程的学生成绩了(注意，对应的实体中有了`getter`方法的数据才能展示出来)**
 ![](https://github.com/cordercorder/Transfer-Station-in-Cloud-Server-Files/blob/master/base7.JPG)
